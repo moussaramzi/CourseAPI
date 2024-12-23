@@ -1,0 +1,15 @@
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\bin\Debug\net8.0\University.DAL.deps.json
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\bin\Debug\net8.0\University.DAL.runtimeconfig.json
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\bin\Debug\net8.0\University.DAL.dll
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\bin\Debug\net8.0\University.DAL.pdb
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.csproj.AssemblyReference.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.AssemblyInfoInputs.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.AssemblyInfo.cs
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.sourcelink.json
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.dll
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\refint\University.DAL.dll
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.pdb
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\University.DAL.genruntimeconfig.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\University.DAL\obj\Debug\net8.0\ref\University.DAL.dll

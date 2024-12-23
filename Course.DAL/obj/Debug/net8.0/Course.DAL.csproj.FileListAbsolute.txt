@@ -1,0 +1,6 @@
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\Course.DAL\obj\Debug\net8.0\Course.DAL.csproj.AssemblyReference.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\Course.DAL\obj\Debug\net8.0\Course.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\Course.DAL\obj\Debug\net8.0\Course.DAL.AssemblyInfoInputs.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\Course.DAL\obj\Debug\net8.0\Course.DAL.AssemblyInfo.cs
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\Course.DAL\obj\Debug\net8.0\Course.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mouss_66fvi74\OneDrive - Thomas More\3ITf\.NET Advanced\project coursebot\CourseAPI\Course.DAL\obj\Debug\net8.0\Course.DAL.sourcelink.json
